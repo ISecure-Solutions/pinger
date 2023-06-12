@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pinger": {
+      "commandName": "Project",
+      "commandLineArgs": "https www.google.com 443"
+    }
+  }
+}

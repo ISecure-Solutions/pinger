@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Pinger</Title>
+    <Authors>Arthur Von Groll dos Santos</Authors>
+    <Description>A simple ping testing library</Description>
+    <PackageProjectUrl>isecure.com.br</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ISecure-Solutions/pinger</RepositoryUrl>
+    <Company>iSecure Privacy and Data Solutions</Company>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>pinger;net;network;test;testing</PackageTags>
+    <IncludeSymbols>True</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+</Project>
